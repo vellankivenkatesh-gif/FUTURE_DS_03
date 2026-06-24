@@ -43,8 +43,6 @@ The objective is to identify conversion trends, customer segments, and opportuni
 * Improve targeting during high-performing months.
 * Develop personalized marketing strategies.
 
-<img width="1111" height="642" alt="dashboard" src="https://github.com/user-attachments/assets/95171550-1410-427c-b2f3-7b95fbde1d01" />
-
 
 Venkatesh
 Data Analyst | Power BI | SQL | Python
